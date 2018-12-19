@@ -39,3 +39,5 @@ git config --list
 In this section, you have learned to use status, log, add and commit commands to keep track of your documents in Git.
 -------------------------------------------------------------
 
+https://github.com/strom019/project_website-001.git
+git remote add origin git@github.com:strom019/project_website-001.git
