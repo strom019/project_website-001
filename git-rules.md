@@ -41,3 +41,4 @@ In this section, you have learned to use status, log, add and commit commands to
 
 https://github.com/strom019/project_website-001.git
 git remote add origin git@github.com:strom019/project_website-001.git
+git remote add origin https://github.com/strom019/project_website-001.git
